@@ -608,8 +608,15 @@ class ReservaController extends Controller
     }
 }
 
-
-
+VERSION 9:
+Routing: https://laravel.com/docs/9.x/routing
+Controllers: https://laravel.com/docs/9.x/controllers
+Laravel Sanctum: https://laravel.com/docs/9.x/sanctum
+Laravel Passport: https://laravel.com/docs/9.x/passport
+Eloquent: API Resources: https://laravel.com/docs/9.x/eloquent-resources
+Validation: https://laravel.com/docs/9.x/validation
+Database: Migrations:https://laravel.com/docs/9.x/migrations
+Database: Seeding:  https://laravel.com/docs/9.x/seeding
 
 
 ![Captura de pantalla 2024-04-22 223542](https://github.com/josecanahuate/API-RESERVAS/assets/58529823/db3980ab-2b39-48c0-bd1e-490da52b0e7d)
