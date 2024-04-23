@@ -607,10 +607,17 @@ class ReservaController extends Controller
         return response()->json(null, 204);
     }
 }
-```
 
-Con esto, tendrás un conjunto básico de endpoints para la gestión de reservas de vehículos. Los usuarios deberán autenticarse con un token válido para acceder a estos endpoints protegidos.
 
-Recuerda ajustar los modelos y las validaciones según las necesidades específicas de tu aplicación y realizar pruebas exhaustivas para asegurar su correcto funcionamiento.
-![Captura de pantalla 2024-04-22 223645](https://github.com/josecanahuate/API-RESERVAS/assets/58529823/401ead3d-e24c-4644-be45-f1e682f70b5e)
+
+
+
+![Captura de pantalla 2024-04-22 223542](https://github.com/josecanahuate/API-RESERVAS/assets/58529823/db3980ab-2b39-48c0-bd1e-490da52b0e7d)
+![Captura de pantalla 2024-04-22 223452](https://github.com/josecanahuate/API-RESERVAS/assets/58529823/f6f8fc89-7620-4b24-97db-793a89ff9e89)
+![Captura de pantalla 2024-04-22 223347](https://github.com/josecanahuate/API-RESERVAS/assets/58529823/16dfa4c8-8dcd-45f7-bc93-e5dbd3898755)
+![Captura de pantalla 2024-04-22 222240](https://github.com/josecanahuate/API-RESERVAS/assets/58529823/c20a7726-82ad-45b6-9ab5-fbd5a04eddeb)
+![Captura de pantalla 2024-04-22 223645](https://github.com/josecanahuate/API-RESERVAS/assets/58529823/ad952afd-fa20-4e6c-b1d6-2d71e00bef34)
+
+
+
 
